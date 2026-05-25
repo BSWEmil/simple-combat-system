@@ -1,0 +1,4 @@
+name: CombatSystem
+version: 1.0
+main: de.emil.combat.CombatPlugin
+api-version: 1.21

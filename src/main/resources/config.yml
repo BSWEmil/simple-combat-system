@@ -1,0 +1,11 @@
+## Plugin by BSWEmil ##
+## Rate it on Spigot and Modrinth ##
+combat:
+  time: 20
+
+blocked-commands:
+  - tpa
+  - tpaccept
+  - tpdeny
+  - tpahere
+  - home
